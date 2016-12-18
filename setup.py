@@ -7,7 +7,7 @@ setup(
     author_email='francescaaguila@gmail.com',
     packages=['square'],
     scripts=['square/utils.py'],
-    url='https://github.ubc.ca/fhaguila/DSCI_524-square-python',
+    url='https://github.com/franguila/DSCI_524-square-python',
     license='LICENSE.txt',
     description='Get the area of a square',
     long_description=open('README.txt').read(),
